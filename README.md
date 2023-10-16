@@ -10,7 +10,7 @@ AKA NiRo828😏
 ## 📖 About Me
 I'm a passionate Full Stack Developer, DevOps Engineer, System Administrator, and a Cyber Security enthusiast.
 I enjoy learning new things everyday and solving problems. 
-I'm a team player, and I love to work with other people. and I'm always looking for new challenges.
+I'm a team player, and I love to work with other people. and I'm always looking for new challenges in DevOps positions.
 
 ## Languages and Tools:
 Python, C#, C++, C, Java, JavaScript, HTML, CSS, SQL, Bash, Git, Docker, Kubernetes, Linux, Windows, AWS, Azure, GCP, Jenkins, Terraform, Vagrant, and more...

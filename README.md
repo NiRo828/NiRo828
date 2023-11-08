@@ -18,7 +18,7 @@ Python, C#, C++, C, Java, JavaScript, HTML, CSS, SQL, Bash, Git, Docker, Kuberne
 
 ## 🌱 Projects
 
-- **[Scanner]**: On Construction
+- **[Scanner]**: (https://github.com/Eli2694/KLA)
 - **[Campaigns]**: On Construction
 
 ## 🔭 Tech Stack

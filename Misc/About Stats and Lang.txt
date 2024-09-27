@@ -1,0 +1,5 @@
+## My GitHub Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiRo828&show_icons=true&theme=radical)](#my-github-stats)
+
+## My Top Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiRo828&layout=compact&theme=radical)](#my-top-languages)

@@ -27,6 +27,7 @@ Python, C#, C++, C, Java, JavaScript, HTML, CSS, SQL, Bash, Git, Docker, Kuberne
 - **Backend**: C, C#, Node.js (JavaScript/TypeScript)
 - **DevOps**: Python, Bash, Docker, Kubernetes, Jenkins, Terraform, Vagrant, AWS EC2, Azure
 - **Database**: MSSQL, MongoDB, MySQL, CosmosDB
+- **AI Tools**: Claude, ChatGPT , AI Agents 
 
 
 ## 📫 Contact Me
